@@ -26,3 +26,5 @@ for i in range(len(arr)):
 
 # This code is contributed by Mohit Kumra 
 
+
+# We can update input and output method.
