@@ -21,3 +21,5 @@ for i in range(len(A)):
 print ("Sorted array") 
 for i in range(len(A)): 
 	print("%d" %A[i]), 
+
+#We can update the way how the result it being displayed.
